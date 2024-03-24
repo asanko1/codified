@@ -1,4 +1,5 @@
 {
 	"name": "default",
 	"type": "Microsoft.DataFactory/factories/managedvirtualnetworks"
+	"class" "ABC"
 }
